@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 3DFramework
+  # 3DFramework (WIP)
 
   Windows app that mix [OpenFrameworks](https://github.com/openframeworks/openFrameworks), [ImGui](https://github.com/ocornut/imgui), [OpenCascade](https://github.com/Open-Cascade-SAS/OCCT) & [VTK](https://github.com/Kitware/VTK).
 </div>
