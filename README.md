@@ -34,32 +34,13 @@
 </table>
 
 ## Dependencies
-<table width="700">
-  <tr>
-    <td width="100">OpenFrameworks</td>
-    <td>(https://github.com/openframeworks/openFrameworks)</td>
-  </tr>
-  <tr>
-    <td>
-      ImGui;
-      with the following extensions:;
-      - ofXImGui;
-      - ImGuizmo;
-      - imgui-transfer-function;
-    </td>
-    <td>
-      (https://github.com/ocornut/imgui);;
-      (https://github.com/Daandelange/ofxImGui);
-      (https://github.com/CedricGuillemet/ImGuizmo);
-      (https://github.com/kogiokka/imgui-transfer-function)
-    </td>
-  </tr>
-  <tr>
-    <td>OpenCascade</td>
-    <td>(https://github.com/Open-Cascade-SAS/OCCT)</td>
-  </tr>
-  <tr>
-    <td>VTK</td>
-    <td>(https://github.com/Kitware/VTK)</td>
-  </tr>
-</table>
+
+| **Dependency**          | **Repository Link**                                                                 |
+|--------------------------|-------------------------------------------------------------------------------------|
+| OpenFrameworks           | [GitHub Repository](https://github.com/openframeworks/openFrameworks)              |
+| ImGui                    | [GitHub Repository](https://github.com/ocornut/imgui)                              |
+| - ofxImGui               | [GitHub Repository](https://github.com/Daandelange/ofxImGui)                        |
+| - ImGuizmo               | [GitHub Repository](https://github.com/CedricGuillemet/ImGuizmo)                    |
+| - imgui-transfer-function| [GitHub Repository](https://github.com/kogiokka/imgui-transfer-function)            |
+| OpenCascade              | [GitHub Repository](https://github.com/Open-Cascade-SAS/OCCT)                      |
+| VTK                      | [GitHub Repository](https://github.com/Kitware/VTK)                                |
