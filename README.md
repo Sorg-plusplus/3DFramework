@@ -10,25 +10,25 @@
   <tr>
     <td width="100">Textured depthmap</td>
     <td rowspan=1>
-      <img src="screenshot/screenshot1.png" />
+      <img src="screenshots/screenshot1.png" />
     </td>
   </tr>
   <tr>
     <td>Point cloud</td>
     <td rowspan=1>
-      <img src="screenshot/screenshot2.png" />
+      <img src="screenshots/screenshot2.png" />
     </td>
   </tr>
   <tr>
     <td>CAD</td>
     <td rowspan=1>
-      <img src="screenshot/screenshot3.png" />
+      <img src="screenshots/screenshot3.png" />
     </td>
   </tr>
   <tr>
     <td>Volume with transfer function</td>
     <td rowspan=1>
-      <img src="screenshot/screenshot4.png" />
+      <img src="screenshots/screenshot4.png" />
     </td>
     </tr>
 </table>
