@@ -36,6 +36,7 @@
 ## Dependencies
 
 | **Dependency**           | **Repository Link**                                                                 |
+|---------------------------|-------------------------------------------------------------------------------------|
 | OpenFrameworks            | [GitHub Repository](https://github.com/openframeworks/openFrameworks)              |
 | ImGui                     | [GitHub Repository](https://github.com/ocornut/imgui)                              |
 | &nbsp;&nbsp;&nbsp;&nbsp;ofxImGui                | [GitHub Repository](https://github.com/Daandelange/ofxImGui)                        |
