@@ -39,8 +39,8 @@
 |--------------------------|-------------------------------------------------------------------------------------|
 | OpenFrameworks           | [GitHub Repository](https://github.com/openframeworks/openFrameworks)              |
 | ImGui                    | [GitHub Repository](https://github.com/ocornut/imgui)                              |
-| &nbsp;&nbsp;&nbsp;&nbsp;- [ofxImGui](https://github.com/Daandelange/ofxImGui)                                  |
-| &nbsp;&nbsp;&nbsp;&nbsp;- [ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)                              |
-| &nbsp;&nbsp;&nbsp;&nbsp;- [imgui-transfer-function](https://github.com/kogiokka/imgui-transfer-function)       |
+| &nbsp;&nbsp;&nbsp;&nbsp;ofxImGui               | [GitHub Repository](https://github.com/Daandelange/ofxImGui)                        |
+| &nbsp;&nbsp;&nbsp;&nbsp;ImGuizmo               | [GitHub Repository](https://github.com/CedricGuillemet/ImGuizmo)                    |
+| &nbsp;&nbsp;&nbsp;&nbsp;imgui-transfer-function| [GitHub Repository](https://github.com/kogiokka/imgui-transfer-function)            |
 | OpenCascade              | [GitHub Repository](https://github.com/Open-Cascade-SAS/OCCT)                      |
 | VTK                      | [GitHub Repository](https://github.com/Kitware/VTK)                                |
