@@ -33,38 +33,12 @@
     </tr>
 </table>
 
-<h2>Dependencies</h2>
-<table>
-  <tr>
-    <td><b>Dependency</b></td>
-    <td><b>Repository Link</b></td>
-  </tr>
-  <tr>
-    <td>OpenFrameworks</td>
-    <td><a href="https://github.com/openframeworks/openFrameworks">GitHub Repository</a></td>
-  </tr>
-  <tr>
-    <td>ImGui</td>
-    <td><a href="https://github.com/ocornut/imgui">GitHub Repository</a></td>
-  </tr>
-  <tr style="font-size: 0.6em;">
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;ofxImGui</td>
-    <td><a href="https://github.com/Daandelange/ofxImGui">GitHub Repository</a></td>
-  </tr>
-  <tr style="font-size: 0.6em;">
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;ImGuizmo</td>
-    <td><a href="https://github.com/CedricGuillemet/ImGuizmo">GitHub Repository</a></td>
-  </tr>
-  <tr style="font-size: 0.6em;">
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;imgui-transfer-function</td>
-    <td><a href="https://github.com/kogiokka/imgui-transfer-function">GitHub Repository</a></td>
-  </tr>
-  <tr>
-    <td>OpenCascade</td>
-    <td><a href="https://github.com/Open-Cascade-SAS/OCCT">GitHub Repository</a></td>
-  </tr>
-  <tr>
-    <td>VTK</td>
-    <td><a href="https://github.com/Kitware/VTK">GitHub Repository</a></td>
-  </tr>
-</table>
+| **Dependency**           | **Repository Link**                                                                 |
+|---------------------------|-------------------------------------------------------------------------------------|
+| OpenFrameworks            | [GitHub Repository](https://github.com/openframeworks/openFrameworks)              |
+| ImGui                     | [GitHub Repository](https://github.com/ocornut/imgui)                              |
+| *ofxImGui*                | [GitHub Repository](https://github.com/Daandelange/ofxImGui)                        |
+| *ImGuizmo*                | [GitHub Repository](https://github.com/CedricGuillemet/ImGuizmo)                    |
+| *imgui-transfer-function* | [GitHub Repository](https://github.com/kogiokka/imgui-transfer-function)            |
+| OpenCascade               | [GitHub Repository](https://github.com/Open-Cascade-SAS/OCCT)                      |
+| VTK                       | [GitHub Repository](https://github.com/Kitware/VTK)                                |
