@@ -47,15 +47,15 @@
     <td>ImGui</td>
     <td><a href="https://github.com/ocornut/imgui">GitHub Repository</a></td>
   </tr>
-  <tr style="font-size: x-small;">
+  <tr style="font-size: 0.8em;">
     <td>&nbsp;&nbsp;&nbsp;&nbsp;ofxImGui</td>
     <td><a href="https://github.com/Daandelange/ofxImGui">GitHub Repository</a></td>
   </tr>
-  <tr style="font-size: x-small;">
+  <tr style="font-size: 0.8em;">
     <td>&nbsp;&nbsp;&nbsp;&nbsp;ImGuizmo</td>
     <td><a href="https://github.com/CedricGuillemet/ImGuizmo">GitHub Repository</a></td>
   </tr>
-  <tr style="font-size: x-small;">
+  <tr style="font-size: 0.8em;">
     <td>&nbsp;&nbsp;&nbsp;&nbsp;imgui-transfer-function</td>
     <td><a href="https://github.com/kogiokka/imgui-transfer-function">GitHub Repository</a></td>
   </tr>
