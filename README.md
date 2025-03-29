@@ -40,15 +40,18 @@
     <td>(https://github.com/openframeworks/openFrameworks)</td>
   </tr>
   <tr>
-    <td>ImGui</td>
-    <td>(https://github.com/ocornut/imgui)</td>
-  </tr>
-  <tr>
-    <td>with the following extensions</td>
     <td>
-      [ofXImGui](https://github.com/Daandelange/ofxImGui)
-      [ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
-      [imgui-transfer-function](https://github.com/kogiokka/imgui-transfer-function)
+      ImGui;
+      with the following extensions:;
+      - ofXImGui;
+      - ImGuizmo;
+      - imgui-transfer-function;
+    </td>
+    <td>
+      (https://github.com/ocornut/imgui);;
+      (https://github.com/Daandelange/ofxImGui);
+      (https://github.com/CedricGuillemet/ImGuizmo);
+      (https://github.com/kogiokka/imgui-transfer-function)
     </td>
   </tr>
   <tr>
