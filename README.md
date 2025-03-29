@@ -1,15 +1,34 @@
-# 3DFramework
+<div align="center">
 
-Windows app that mix [openFrameworks](https://github.com/openframeworks/openFrameworks), [ImGui](https://github.com/ocornut/imgui), [OpenCascade](https://github.com/Open-Cascade-SAS/OCCT) & [VTK](https://github.com/Kitware/VTK).
+  # 3DFramework
 
-It is for example possible to view depthmap (with optionnal texture)
-![Screenshot1](screenshot1.png)
+  Windows app that mix [openFrameworks](https://github.com/openframeworks/openFrameworks), [ImGui](https://github.com/ocornut/imgui), [OpenCascade](https://github.com/Open-Cascade-SAS/OCCT) & [VTK](https://github.com/Kitware/VTK).
+</div>
 
-Viewing point cloud
-![Screenshot2](screenshot2.png)
-
-Viewing CAD
-![Screenshot3](screenshot3.png)
-
-Viewing volume with transfer function
-![Screenshot4](screenshot4.png)
+## Features
+<table width="700">
+  <tr>
+    <td width="100">Textured depthmap</td>
+    <td rowspan=1>
+      <img src="screenshot1.png" />
+    </td>
+  </tr>
+  <tr>
+    <td>Point cloud</td>
+    <td rowspan=1>
+      <img src="screenshot2.png" />
+    </td>
+  </tr>
+  <tr>
+    <td>CAD</td>
+    <td rowspan=1>
+      <img src="screenshot3.png" />
+    </td>
+  </tr>
+  <tr>
+    <td>Volume with transfer function</td>
+    <td rowspan=1>
+      <img src="screenshot4.png" />
+    </td>
+    </tr>
+</table>
