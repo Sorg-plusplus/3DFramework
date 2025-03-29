@@ -33,14 +33,12 @@
     </tr>
 </table>
 
-## Dependencies
+### Dependencies
 
 | **Dependency**          | **Repository Link**                                                                 |
 |--------------------------|-------------------------------------------------------------------------------------|
 | OpenFrameworks           | [GitHub Repository](https://github.com/openframeworks/openFrameworks)              |
-| ImGui                    | [GitHub Repository](https://github.com/ocornut/imgui)                              |
-| - ofxImGui               | [GitHub Repository](https://github.com/Daandelange/ofxImGui)                        |
-| - ImGuizmo               | [GitHub Repository](https://github.com/CedricGuillemet/ImGuizmo)                    |
-| - imgui-transfer-function| [GitHub Repository](https://github.com/kogiokka/imgui-transfer-function)            |
+| ImGui (with extensions)  | [GitHub Repository](https://github.com/ocornut/imgui)                              |
+| - Extensions:            | [ofxImGui](https://github.com/Daandelange/ofxImGui), [ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo), [imgui-transfer-function](https://github.com/kogiokka/imgui-transfer-function) |
 | OpenCascade              | [GitHub Repository](https://github.com/Open-Cascade-SAS/OCCT)                      |
 | VTK                      | [GitHub Repository](https://github.com/Kitware/VTK)                                |
