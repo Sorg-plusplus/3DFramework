@@ -6,32 +6,26 @@
 </div>
 
 ## Features
-<table width="700">
+
+<table>
   <tr>
-    <td width="100">Textured depthmap</td>
-    <td>
-      <img src="screenshots/screenshot1.png" />
-    </td>
+    <td>Textured depthmap</td>
+    <td><img src="screenshots/screenshot1.png" alt="Textured depthmap screenshot"></td>
   </tr>
   <tr>
     <td>Point cloud</td>
-    <td>
-      <img src="screenshots/screenshot2.png" />
-    </td>
+    <td><img src="screenshots/screenshot2.png" alt="Point cloud screenshot"></td>
   </tr>
   <tr>
     <td>CAD</td>
-    <td>
-      <img src="screenshots/screenshot3.png" />
-    </td>
+    <td><img src="screenshots/screenshot3.png" alt="CAD screenshot"></td>
   </tr>
   <tr>
     <td>Volume with transfer function</td>
-    <td>
-      <img src="screenshots/screenshot4.png" />
-    </td>
-    </tr>
+    <td><img src="screenshots/screenshot4.png" alt="Volume screenshot"></td>
+  </tr>
 </table>
+
 
 ## Dependencies
 
@@ -39,8 +33,8 @@
 |---------------------------|-------------------------------------------------------------------------------------|
 | OpenFrameworks            | [GitHub Repository](https://github.com/openframeworks/openFrameworks)              |
 | ImGui                     | [GitHub Repository](https://github.com/ocornut/imgui)                              |
-|  **ofxImGui**                | [GitHub Repository](https://github.com/Daandelange/ofxImGui)                        |
-|  **ImGuizmo**                | [GitHub Repository](https://github.com/CedricGuillemet/ImGuizmo)                    |
-|  **imgui-transfer-function** | [GitHub Repository](https://github.com/kogiokka/imgui-transfer-function)            |
+| &nbsp;&nbsp;&nbsp;&nbsp;ofxImGui                | [GitHub Repository](https://github.com/Daandelange/ofxImGui)                        |
+| &nbsp;&nbsp;&nbsp;&nbsp;ImGuizmo                | [GitHub Repository](https://github.com/CedricGuillemet/ImGuizmo)                    |
+| &nbsp;&nbsp;&nbsp;&nbsp;imgui-transfer-function | [GitHub Repository](https://github.com/kogiokka/imgui-transfer-function)            |
 | OpenCascade               | [GitHub Repository](https://github.com/Open-Cascade-SAS/OCCT)                      |
 | VTK                       | [GitHub Repository](https://github.com/Kitware/VTK)                                |
