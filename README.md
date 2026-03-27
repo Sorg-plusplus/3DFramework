@@ -5,7 +5,7 @@
   Windows app that mix [OpenFrameworks](https://github.com/openframeworks/openFrameworks), [ImGui](https://github.com/ocornut/imgui), [OpenCascade](https://github.com/Open-Cascade-SAS/OCCT) & [VTK](https://github.com/Kitware/VTK).
 </div>
 
-[Download the latest release](https://github.com/OWNER/REPO/releases/latest)
+[Download the latest release](https://github.com/Sorg-plusplus/3DFramework/releases/latest)
 
 ## Features
 
